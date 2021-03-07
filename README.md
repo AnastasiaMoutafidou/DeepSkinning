@@ -17,3 +17,6 @@ How to train and run:
   P-Center: You are additionally able to use P-Center algorithm as the proxy bone estimation which is feasible by using in main.py the function p_center_clustering of
             p_center.py script. There you should also provide the number of bones (clusters). For comparison purposes of Deep Skinning with FESAM in both tensorflow_script
             & tensorflow_script_without_training we are calculating the number of bones that our network models decide.
+ 
+  Plugin for Blender: Moreover, we have created a plugin for Blender for Show/Hide 3D models imported for training, 
+                      link/unlink our method's output & reload an empty scene for user's convenience.
