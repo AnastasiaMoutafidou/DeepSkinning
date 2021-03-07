@@ -7,6 +7,7 @@ This project runs with:
 - Blender 2.79.b (some other devices had some incompatibilites with Cuda & Tensorflow GPU)
 
 How to train and run:
+
   Training: Select the models that you want our network models (LSTM, CNN or LSTM-CNN-Hybrid) in tensorflow_script.py (change network=....)
             You could change batch_size and epochs, as well. For training, you should always use start_tensorflow function in main.py.
             
