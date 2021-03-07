@@ -19,5 +19,5 @@ How to train and run:
             & tensorflow_script_without_training we are calculating the number of bones that our network models decide.
  
   Plugin for Blender: Moreover, we have created a plugin for Blender for Show/Hide 3D models imported for training, 
-                      link/unlink our method's output & reload an empty scene for user's convenience.
+                      link/unlink our method's output, change FPS of output animations & reload an empty scene for user's convenience.
 ![alt text](https://github.com/AnastasiaMoutafidou/DeepSkinning/blob/master/Plugin.PNG?raw=true)
