@@ -20,3 +20,6 @@ How to train and run:
  
   Plugin for Blender: Moreover, we have created a plugin for Blender for Show/Hide 3D models imported for training, 
                       link/unlink our method's output & reload an empty scene for user's convenience.
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Plugin.PNG?raw=true)
+
+  https://github.com/AnastasiaMoutafidou/DeepSkinning/blob/master/Plugin.PNG
